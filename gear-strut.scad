@@ -9,6 +9,7 @@
  * hr: hole radius
  * of: how much the hole portrudes
  */
+ $fn=50;
 module gear_strut(ih=50, ir=3, oh=10, or=5, sh=25, sw=2, sd=10, hr=1, of=10) {
     difference() {
         union() {
