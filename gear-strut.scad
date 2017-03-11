@@ -22,4 +22,4 @@ module gear_strut(ih=50, ir=3, oh=10, or=5, sh=25, sw=2, sd=10, hr=1, of=10) {
     }
 }
 
-gear_strut();
+gear_strut(ih=28.4, ir=2.70, oh=5.70, or=4.00, sh=16.70, sw=1.40, sd=3.00, hr=1.50);
